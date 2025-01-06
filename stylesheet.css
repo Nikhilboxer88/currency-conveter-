@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color:antiquewhite;
+   
+  }
+  .amount{
+    font-size: larger;
+    border-radius: 1vh;
+    
+  }
+  .button{
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 50px;
+    height: 30px;
+    border-color: black;
+    
+
+    
+  }
+  .container{
+    background-color: whitesmoke;
+    padding: 1cm;
+    border-radius: 2vb;
+  }
+  .dropdown{
+    display: flex;
+    margin-top: 1cm;
+    justify-content:space-between ;
+    align-items: center;
+    
+  }
+.x{
+  margin-left: 1cm;
+}
+.select-container img{
+  max-width: 2rem;
+
+}
+.select-container{
+  display: flex;
+  background-color: red;
+  justify-content: center;
+  align-items: center;
+  width: 6.5rem;
+  border-radius: 2rem;
+  font-size: larger;
+  
+}
